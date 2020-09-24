@@ -39,6 +39,7 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 - Ruby
 - OOP
 - Testing
+- APIs
 
 ### Where to find me
 - [Twitter](https://twitter.com/vicki_langer)
