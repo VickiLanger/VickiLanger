@@ -36,6 +36,7 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 - Bulma
 
 ### I'd like to be more acquanited with
+- JavaScript
 - MongoDB
 - Ruby
 - OOP
