@@ -36,9 +36,9 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 - Bulma
 
 ### I'd like to be more acquanited with
+- Ruby (I've actually been working with it [here](https://github.com/VickiLanger/Advent-of-Code-2020/))
 - JavaScript
 - MongoDB
-- Ruby
 - OOP
 - Testing
 - APIs
@@ -47,3 +47,4 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 - [Twitter](https://twitter.com/vicki_langer)
 - [Dev.to](https://dev.to/vickilanger)
 - [LinkedIn](https://linkedin.com/in/vickilanger)
+- [Resume](https://registry.jsonresume.org/VickiLanger)
