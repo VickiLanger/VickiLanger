@@ -30,10 +30,13 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 
 ### I'm fond of
 - Python
+- Ruby
+- Flask
 - Django
 - A11Y
 - Open Source
 - Bulma
+- jQuery
 
 ### I'd like to be more acquanited with
 - Ruby (I've actually been working with it [here](https://github.com/VickiLanger/Advent-of-Code-2020/))
