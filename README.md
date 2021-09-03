@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Vicki was once a manager of aircraft maintenance and is now charming Python. She coded and maintains [#VetsWhoCode bot](https://twitter.com/VetsWhoCodeBot), [LGBTQ of the Day bot](https://twitter.com/@LGBTQotd), & [Code Questions bot](https://twitter.com/CodeQBot). When Vicki isn't petting her cats, she’s throwing a ball for her dogs.
 
 ### Pronouns
-- She / Her
+- She / They
 
 ### I’m currently super proud of 
 | Project | What it Does |
