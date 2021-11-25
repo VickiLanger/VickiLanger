@@ -23,7 +23,7 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 ### I’m currently super proud of 
 | Project | What it Does |
 |-------------------------------------------------------------------------|--------------------------------------------------|
-| [TBD](https://github.com/VickiLanger/TBD) | Reference checklist of things to use when making sure posts and things are not gatekeeping |
+| [AntiGatekeep Checklist for Content Creation](https://vickilanger.github.io/AntiGatekeep/) | Reference checklist of things to use when making sure posts and things are not gatekeeping |
 | [LGBTQ of the Day Bot](https://github.com/VickiLanger/Queer-of-the-day-bot) | open source Twitter bot tweeting fun goofy LGBTQ things & queer history of the day |
 | [Code Questions Bot](https://github.com/VickiLanger/code-questions-bot) | open source Twitter bot who tweets code questions and trivia |
 | [#VetsWhoCode Retweet Bot](https://github.com/VickiLanger/VetsWhoCode-Retweet-Bot) | Twitter retweet bot to promote veterans with #VetsWhoCode |
