@@ -23,9 +23,10 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 ### I’m currently super proud of 
 | Project | What it Does |
 |-------------------------------------------------------------------------|--------------------------------------------------|
-| [#VetsWhoCode Retweet Bot](https://github.com/VickiLanger/VetsWhoCode-Retweet-Bot) | Twitter retweet bot to promote veterans with #VetsWhoCode |
+| [TBD](https://github.com/VickiLanger/TBD) | Reference checklist of things to use when making sure posts and things are not gatekeeping |
 | [LGBTQ of the Day Bot](https://github.com/VickiLanger/Queer-of-the-day-bot) | open source Twitter bot tweeting fun goofy LGBTQ things & queer history of the day |
 | [Code Questions Bot](https://github.com/VickiLanger/code-questions-bot) | open source Twitter bot who tweets code questions and trivia |
+| [#VetsWhoCode Retweet Bot](https://github.com/VickiLanger/VetsWhoCode-Retweet-Bot) | Twitter retweet bot to promote veterans with #VetsWhoCode |
 
 
 ### I'm fond of
@@ -48,6 +49,6 @@ Vicki was once a manager of aircraft maintenance and is now charming Python. She
 
 ### Where to find me
 - [Twitter](https://twitter.com/vicki_langer)
-- [Dev.to](https://dev.to/vickilanger)
+- [I write on Dev.to](https://dev.to/vickilanger)
 - [LinkedIn](https://linkedin.com/in/vickilanger)
 - [Resume](https://registry.jsonresume.org/VickiLanger)
