@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Vicki was once a manager of aircraft maintenance and is now charming Python. She coded and maintains [OpenGates "antiGatekeeping" Checklist](https://vickilanger.github.io/OpenGates/), [LGBTQ of the Day bot](https://twitter.com/@LGBTQotd), [Code Questions bot](https://twitter.com/CodeQBot), & [#VetsWhoCode bot](https://twitter.com/VetsWhoCodeBot). When Vicki isn't petting her cats, they're throwing a ball for their dogs.
+Vicki was once a manager of aircraft maintenance and is now charming Python. She coded and maintains [OpenGates "antiGatekeeping" Checklist](https://OpenGates.dev), [LGBTQ of the Day bot](https://twitter.com/@LGBTQotd), [Code Questions bot](https://twitter.com/CodeQBot), & [#VetsWhoCode bot](https://twitter.com/VetsWhoCodeBot). When Vicki isn't petting her cats, they're throwing a ball for their dogs.
 
 ### Pronouns
 - She / They
